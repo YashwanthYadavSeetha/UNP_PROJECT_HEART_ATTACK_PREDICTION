@@ -1,6 +1,7 @@
 HeartAttack-Prediction-using-Machine-Learning
 
 Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP). 
+
 Key highlights:
 
 Studied and Analyzed the Heart Attack Prediction dataset to applying ML models and present my insights.
